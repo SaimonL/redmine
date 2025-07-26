@@ -5,6 +5,7 @@
 /.powrc
 /.rvmrc
 /.ruby-version
+/.rbenv-vars
 /.byebug_history
 /config/additional_environment.rb
 /config/configuration.yml
